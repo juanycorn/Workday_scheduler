@@ -9,6 +9,13 @@ A simple calendar application for scheduling your work day.
 - [Installation](#installation)
 - [Usage](#usage)
 
+## example image
+
+![example](images/example.png)
+
+## deployed application
+
+link to deployed page [here](https://juanycorn.github.io/Workday_scheduler/)
 
 ## Description
 
